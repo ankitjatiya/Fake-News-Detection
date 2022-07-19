@@ -1,2 +1,2 @@
-# Fake-News-Source-Detection
+# Fake-News-Detection
 Detects whether an article is a fake news or not using various Machine Learning techniques.
